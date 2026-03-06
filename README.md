@@ -11,5 +11,4 @@ Features:
 
 Tech Stack:
 Python, Dash, Plotly, Scikit-learn, Pandas
-## Dashboard Preview
-![Dashboard](screenshot.png)
+
